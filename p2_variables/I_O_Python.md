@@ -14,7 +14,7 @@ print(100.312) # для десятичной дроби
 - символ (одиночный)
 - число
 - десятичная дробь (число с плавающей точкой)
-- другие - [комплексные типы данных](https://github.com/sashazenit4/easy-python/p4_types/complex_types.md)
+- другие - [комплексные типы данных](https://github.com/sashazenit4/easy-python/blob/master/p4_types/complex_types.md)
 
 Любая программа нужна для организации взаимодействия компьютера и человека, поэтому следующий шаг - разобраться, как данные получать от пользователя и хранить на протяжении программы. Для получения данных от пользователя можно использовать функцию **input**:
 
@@ -76,7 +76,7 @@ to_multiply = int(input('Введите число, а я верну его вт
 print(to_multiply * 3) # то вернёт 369
 ```
 
-Функция **int** выполнит явное преобразование типа данных. Об особенности данной операции поговорим в одном из [следующих уроков](https://github.com/sashazenit4/easy-python/p4_types/types.md).
+Функция **int** выполнит явное преобразование типа данных. Об особенности данной операции поговорим в одном из [следующих уроков](https://github.com/sashazenit4/easy-python/blob/master/p4_types/types.md).
 
 **Вывод нескольких значений через запятую в print**:
 
@@ -138,4 +138,4 @@ print(f'Python способен вывести {what}')
 - [Онлайн интерпретатор Python](https://www.online-python.com/) (на всякий случай, установка была в прошлом уроке)
 - @TODO добавить ссылки на наши соцсети
 
-[Следующий урок](https://github.com/sashazenit4/easy-python/p3_conditions/Conditions_Python.md)
+[Следующий урок](https://github.com/sashazenit4/easy-python/blob/master/p3_conditions/Conditions_Python.md)
