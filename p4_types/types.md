@@ -219,6 +219,7 @@ print(f"Меня зовут {name}, мне {age} лет.")
 - [Официальная документация Python](https://docs.python.org/3/)
 - [Онлайн интерпретатор Python](https://www.python.org/shell/)
 - [Учебник по Python](https://pythonworld.ru/)
+- [Ликбез по типизации в языках программирования](https://habr.com/ru/articles/161205/)
 
 ### Заключение
 
