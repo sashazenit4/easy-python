@@ -1,0 +1,11 @@
+# Структура модуля
+1. [Ввод-вывод данных в Python](https://github.com/sashazenit4/easy-python/blob/master/p3_conditions/I_O_Python.md)
+2. [Логические операторы в Python](https://github.com/sashazenit4/easy-python/blob/master/p3_conditions/Conditions_Python.md)
+3. [Простые типы данных](https://github.com/sashazenit4/easy-python/blob/master/p4_types/types.md)
+4. [Комплексные типы данных](https://github.com/sashazenit4/easy-python/blob/master/p4_types/complex_types.md)
+5. [Циклы](https://github.com/sashazenit4/easy-python/blob/master/p5_loops/loops.md)
+6. [Методы типов данных](https://github.com/sashazenit4/easy-python/blob/master/p6_type-methods/type_methods.md)
+7. [Функции](https://github.com/sashazenit4/easy-python/blob/master/p7_functions/def.md)
+8. [ООП](https://github.com/sashazenit4/easy-python/blob/master/p8_oop/oop.md)
+9. [ООП в Python](https://github.com/sashazenit4/easy-python/blob/master/p9_python_oop/oop_and_snake.md)
+10. [ООП в Python - продолжение](https://github.com/sashazenit4/easy-python/blob/master/p9_python_oop/poly-and-inheritance.md)

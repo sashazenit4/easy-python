@@ -220,6 +220,7 @@ print(f"Меня зовут {name}, мне {age} лет.")
 - [Онлайн интерпретатор Python](https://www.python.org/shell/)
 - [Учебник по Python](https://pythonworld.ru/)
 - [Ликбез по типизации в языках программирования](https://habr.com/ru/articles/161205/)
+- @TODO добавить ссылки на наши соцсети
 
 ### Заключение
 

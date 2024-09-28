@@ -167,6 +167,7 @@ while not game.check_collision():
 ### Полезные ссылки:
 
 - [Официальная документация Python по классам](https://docs.python.org/3/tutorial/classes.html)
+- @TODO добавить ссылки на наши соцсети
 
 ### Заключение
 

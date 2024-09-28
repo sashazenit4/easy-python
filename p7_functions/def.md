@@ -180,6 +180,7 @@ print(add(5, 3))  # 8
 ### Полезные ссылки:
 
 - [Официальная документация Python по функциям](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+- @TODO добавить ссылки на наши соцсети
 
 ### Заключение
 

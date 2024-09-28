@@ -221,6 +221,7 @@ matrix[2][2] = 9
 
 - [Официальная документация Python](https://docs.python.org/3/)
 - [Учебник по Python](https://pythonworld.ru/)
+- @TODO добавить ссылки на наши соцсети
 
 ### Заключение
 

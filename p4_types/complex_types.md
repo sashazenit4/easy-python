@@ -241,6 +241,7 @@ print(all_students)  # {'Alice', 'Bob', 'Charlie', 'Diana', 'Eve'}
 - [Онлайн интерпретатор Python](https://www.python.org/shell/)
 - [Учебник по Python](https://pythonworld.ru/)
 - [Ликбез по типизации в языках программирования](https://habr.com/ru/articles/161205/)
+- @TODO добавить ссылки на наши соцсети
 
 ### Заключение
 
