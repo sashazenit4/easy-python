@@ -1,5 +1,5 @@
 # Структура модуля
-1. [Ввод-вывод данных в Python](https://github.com/sashazenit4/easy-python/blob/master/p3_conditions/I_O_Python.md)
+1. [Ввод-вывод данных в Python](https://github.com/sashazenit4/easy-python/blob/master/p2_variables/I_O_Python.md)
 2. [Логические операторы в Python](https://github.com/sashazenit4/easy-python/blob/master/p3_conditions/Conditions_Python.md)
 3. [Простые типы данных](https://github.com/sashazenit4/easy-python/blob/master/p4_types/types.md)
 4. [Комплексные типы данных](https://github.com/sashazenit4/easy-python/blob/master/p4_types/complex_types.md)
